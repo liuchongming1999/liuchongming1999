@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## I'm Chongming Liu 🇨🇳 !
+- 🧠 I’m currently working on brain-inspired computational models.
+  
+- 🤔 I'm interesting in the development of artificial general intelligence (AGI).
+
 <!--
 **liuchongming1999/liuchongming1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
