@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Chongming Liu 🇨🇳 !
+## I'm Chongming Liu (Truman) 🇨🇳 !
 - 🧠 I’m currently working on brain-inspired computational models.
   
 - 🤔 I'm interesting in the development of artificial general intelligence (AGI).
